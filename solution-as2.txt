@@ -1,0 +1,12 @@
+ git clone https://github.com/sachinpatil101/hw.git .
+git init
+ git remote add origin https://github.com/hasimpathan/Git-Github-Assignment2.git
+notepad file.txt
+git add .
+ git commit -m "Added File.txt"
+git push -u origin master
+notepad participants.md
+git status
+ git add .
+ git commit -m "added my name to participants.md"
+ git push -u origin master
